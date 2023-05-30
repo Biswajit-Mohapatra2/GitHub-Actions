@@ -24,7 +24,7 @@ jobs:
     - name: Deploy to k8s
       uses: appleboy/kubectl-action@v1.0.0
       with:
-        args: apply -f deployment.yaml
+        args: apply -f /examples/deployment.yaml
         env:
           KUBECONFIG: ${{ env.KUBECONFIG }}
 
