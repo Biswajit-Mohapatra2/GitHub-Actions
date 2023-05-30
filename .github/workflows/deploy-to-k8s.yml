@@ -25,4 +25,5 @@ jobs:
       uses: tale/kubectl-action@v1
       with:
         args: apply -f /examples/deployment.yml
-
+        env:
+          KUBECONFIG: ${{ env.KUBECONFIG }}
