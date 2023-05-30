@@ -26,5 +26,5 @@ jobs:
       with:
         args: apply -f /examples/deployment.yaml
         env:
-          KUBECONFIG: ${{ env.KUBECONFIG }}
+          KUBECONFIG: ${{ secrets.KUBECONFIG }}
 
