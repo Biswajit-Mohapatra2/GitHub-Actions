@@ -23,7 +23,7 @@ By automating the process of building, testing, and deploying your application, 
    </details>
 
 
-## Complete Workflow Structure:
+# Complete Workflow Structure:
 
 
    ![Actions](https://res.cloudinary.com/practicaldev/image/fetch/s--NYzgUCZI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bhjt07ov8xmnrp9obtvo.png)
