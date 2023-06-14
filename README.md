@@ -6,6 +6,8 @@ To create a GitHub Action CI/CD workflow, you will need to create a YAML file in
 <details>
    <summary>Click to Expand</summary>
 
+Steps:-
+
     Here are the steps on how to perform a GitHub Action CI/CD workflow:
 
 - Create a new repository on GitHub.
